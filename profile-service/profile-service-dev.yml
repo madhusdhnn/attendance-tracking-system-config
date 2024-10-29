@@ -1,2 +1,6 @@
 server:
   port: 9000
+
+my:
+  custom:
+    property: 'hello-world'
